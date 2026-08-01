@@ -1,6 +1,25 @@
 {
-  "format": "navimaps-pack-manifest-v1",
+  "format": "navimaps-pack-manifest-v2",
   "zoom": 17,
-  "base_download_url": "https://github.com/nhtuvo2310/navimaps-packs/releases/latest/download/",
-  "file_name_pattern": "pack_{x}_{y}.bin"
+  "file_name_pattern": "pack_{x}_{y}.bin",
+  "shards": [
+    {
+      "name": "packs-v1",
+      "base_download_url": "https://github.com/nhtuvo2310/navimaps-packs/releases/download/packs-v1/",
+      "pack_start_y_min": 0,
+      "pack_start_y_max": 62159
+    },
+    {
+      "name": "packs-v2",
+      "base_download_url": "https://github.com/nhtuvo2310/navimaps-packs/releases/download/packs-v2/",
+      "pack_start_y_min": 62160,
+      "pack_start_y_max": 63999
+    },
+    {
+      "name": "packs-v3",
+      "base_download_url": "https://github.com/nhtuvo2310/navimaps-packs/releases/download/packs-v3/",
+      "pack_start_y_min": 64000,
+      "pack_start_y_max": 69999
+    }
+  ]
 }

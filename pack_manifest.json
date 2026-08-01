@@ -1,0 +1,6 @@
+{
+  "format": "navimaps-pack-manifest-v1",
+  "zoom": 17,
+  "base_download_url": "https://github.com/nhtuvo2310/navimaps-packs/releases/latest/download/",
+  "file_name_pattern": "pack_{x}_{y}.bin"
+}

@@ -20,6 +20,24 @@
       "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v3/",
       "pack_start_y_min": 64000,
       "pack_start_y_max": 69999
+    },
+    {
+      "name": "packs-v4",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v4/",
+      "pack_start_y_min": 70000,
+      "pack_start_y_max": 75999
+    },
+    {
+      "name": "packs-v5",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v5/",
+      "pack_start_y_min": 76000,
+      "pack_start_y_max": 81999
+    },
+    {
+      "name": "packs-v6",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v6/",
+      "pack_start_y_min": 82000,
+      "pack_start_y_max": 87999
     }
   ]
 }

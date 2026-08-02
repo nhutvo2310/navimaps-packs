@@ -38,6 +38,450 @@
       "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v6/",
       "pack_start_y_min": 82000,
       "pack_start_y_max": 87999
+    },
+    {
+      "name": "packs-v7",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v7/",
+      "pack_start_y_min": 88000,
+      "pack_start_y_max": 93999
+    },
+    {
+      "name": "packs-v8",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v8/",
+      "pack_start_y_min": 94000,
+      "pack_start_y_max": 99999
+    },
+    {
+      "name": "packs-v9",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v9/",
+      "pack_start_y_min": 100000,
+      "pack_start_y_max": 105999
+    },
+    {
+      "name": "packs-v10",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v10/",
+      "pack_start_y_min": 106000,
+      "pack_start_y_max": 111999
+    },
+    {
+      "name": "packs-v11",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v11/",
+      "pack_start_y_min": 112000,
+      "pack_start_y_max": 117999
+    },
+    {
+      "name": "packs-v12",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v12/",
+      "pack_start_y_min": 118000,
+      "pack_start_y_max": 123999
+    },
+    {
+      "name": "packs-v13",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v13/",
+      "pack_start_y_min": 124000,
+      "pack_start_y_max": 129999
+    },
+    {
+      "name": "packs-v14",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v14/",
+      "pack_start_y_min": 130000,
+      "pack_start_y_max": 135999
+    },
+    {
+      "name": "packs-v15",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v15/",
+      "pack_start_y_min": 136000,
+      "pack_start_y_max": 141999
+    },
+    {
+      "name": "packs-v16",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v16/",
+      "pack_start_y_min": 142000,
+      "pack_start_y_max": 147999
+    },
+    {
+      "name": "packs-v17",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v17/",
+      "pack_start_y_min": 148000,
+      "pack_start_y_max": 153999
+    },
+    {
+      "name": "packs-v18",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v18/",
+      "pack_start_y_min": 154000,
+      "pack_start_y_max": 159999
+    },
+    {
+      "name": "packs-v19",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v19/",
+      "pack_start_y_min": 160000,
+      "pack_start_y_max": 165999
+    },
+    {
+      "name": "packs-v20",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v20/",
+      "pack_start_y_min": 166000,
+      "pack_start_y_max": 171999
+    },
+    {
+      "name": "packs-v21",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v21/",
+      "pack_start_y_min": 172000,
+      "pack_start_y_max": 177999
+    },
+    {
+      "name": "packs-v22",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v22/",
+      "pack_start_y_min": 178000,
+      "pack_start_y_max": 183999
+    },
+    {
+      "name": "packs-v23",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v23/",
+      "pack_start_y_min": 184000,
+      "pack_start_y_max": 189999
+    },
+    {
+      "name": "packs-v24",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v24/",
+      "pack_start_y_min": 190000,
+      "pack_start_y_max": 195999
+    },
+    {
+      "name": "packs-v25",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v25/",
+      "pack_start_y_min": 196000,
+      "pack_start_y_max": 201999
+    },
+    {
+      "name": "packs-v26",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v26/",
+      "pack_start_y_min": 202000,
+      "pack_start_y_max": 207999
+    },
+    {
+      "name": "packs-v27",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v27/",
+      "pack_start_y_min": 208000,
+      "pack_start_y_max": 213999
+    },
+    {
+      "name": "packs-v28",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v28/",
+      "pack_start_y_min": 214000,
+      "pack_start_y_max": 219999
+    },
+    {
+      "name": "packs-v29",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v29/",
+      "pack_start_y_min": 220000,
+      "pack_start_y_max": 225999
+    },
+    {
+      "name": "packs-v30",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v30/",
+      "pack_start_y_min": 226000,
+      "pack_start_y_max": 231999
+    },
+    {
+      "name": "packs-v31",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v31/",
+      "pack_start_y_min": 232000,
+      "pack_start_y_max": 237999
+    },
+    {
+      "name": "packs-v32",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v32/",
+      "pack_start_y_min": 238000,
+      "pack_start_y_max": 243999
+    },
+    {
+      "name": "packs-v33",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v33/",
+      "pack_start_y_min": 244000,
+      "pack_start_y_max": 249999
+    },
+    {
+      "name": "packs-v34",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v34/",
+      "pack_start_y_min": 250000,
+      "pack_start_y_max": 255999
+    },
+    {
+      "name": "packs-v35",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v35/",
+      "pack_start_y_min": 256000,
+      "pack_start_y_max": 261999
+    },
+    {
+      "name": "packs-v36",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v36/",
+      "pack_start_y_min": 262000,
+      "pack_start_y_max": 267999
+    },
+    {
+      "name": "packs-v37",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v37/",
+      "pack_start_y_min": 268000,
+      "pack_start_y_max": 273999
+    },
+    {
+      "name": "packs-v38",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v38/",
+      "pack_start_y_min": 274000,
+      "pack_start_y_max": 279999
+    },
+    {
+      "name": "packs-v39",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v39/",
+      "pack_start_y_min": 280000,
+      "pack_start_y_max": 285999
+    },
+    {
+      "name": "packs-v40",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v40/",
+      "pack_start_y_min": 286000,
+      "pack_start_y_max": 291999
+    },
+    {
+      "name": "packs-v41",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v41/",
+      "pack_start_y_min": 292000,
+      "pack_start_y_max": 297999
+    },
+    {
+      "name": "packs-v42",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v42/",
+      "pack_start_y_min": 298000,
+      "pack_start_y_max": 303999
+    },
+    {
+      "name": "packs-v43",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v43/",
+      "pack_start_y_min": 304000,
+      "pack_start_y_max": 309999
+    },
+    {
+      "name": "packs-v44",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v44/",
+      "pack_start_y_min": 310000,
+      "pack_start_y_max": 315999
+    },
+    {
+      "name": "packs-v45",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v45/",
+      "pack_start_y_min": 316000,
+      "pack_start_y_max": 321999
+    },
+    {
+      "name": "packs-v46",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v46/",
+      "pack_start_y_min": 322000,
+      "pack_start_y_max": 327999
+    },
+    {
+      "name": "packs-v47",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v47/",
+      "pack_start_y_min": 328000,
+      "pack_start_y_max": 333999
+    },
+    {
+      "name": "packs-v48",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v48/",
+      "pack_start_y_min": 334000,
+      "pack_start_y_max": 339999
+    },
+    {
+      "name": "packs-v49",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v49/",
+      "pack_start_y_min": 340000,
+      "pack_start_y_max": 345999
+    },
+    {
+      "name": "packs-v50",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v50/",
+      "pack_start_y_min": 346000,
+      "pack_start_y_max": 351999
+    },
+    {
+      "name": "packs-v51",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v51/",
+      "pack_start_y_min": 352000,
+      "pack_start_y_max": 357999
+    },
+    {
+      "name": "packs-v52",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v52/",
+      "pack_start_y_min": 358000,
+      "pack_start_y_max": 363999
+    },
+    {
+      "name": "packs-v53",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v53/",
+      "pack_start_y_min": 364000,
+      "pack_start_y_max": 369999
+    },
+    {
+      "name": "packs-v54",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v54/",
+      "pack_start_y_min": 370000,
+      "pack_start_y_max": 375999
+    },
+    {
+      "name": "packs-v55",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v55/",
+      "pack_start_y_min": 376000,
+      "pack_start_y_max": 381999
+    },
+    {
+      "name": "packs-v56",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v56/",
+      "pack_start_y_min": 382000,
+      "pack_start_y_max": 387999
+    },
+    {
+      "name": "packs-v57",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v57/",
+      "pack_start_y_min": 388000,
+      "pack_start_y_max": 393999
+    },
+    {
+      "name": "packs-v58",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v58/",
+      "pack_start_y_min": 394000,
+      "pack_start_y_max": 399999
+    },
+    {
+      "name": "packs-v59",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v59/",
+      "pack_start_y_min": 400000,
+      "pack_start_y_max": 405999
+    },
+    {
+      "name": "packs-v60",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v60/",
+      "pack_start_y_min": 406000,
+      "pack_start_y_max": 411999
+    },
+    {
+      "name": "packs-v61",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v61/",
+      "pack_start_y_min": 412000,
+      "pack_start_y_max": 417999
+    },
+    {
+      "name": "packs-v62",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v62/",
+      "pack_start_y_min": 418000,
+      "pack_start_y_max": 423999
+    },
+    {
+      "name": "packs-v63",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v63/",
+      "pack_start_y_min": 424000,
+      "pack_start_y_max": 429999
+    },
+    {
+      "name": "packs-v64",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v64/",
+      "pack_start_y_min": 430000,
+      "pack_start_y_max": 435999
+    },
+    {
+      "name": "packs-v65",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v65/",
+      "pack_start_y_min": 436000,
+      "pack_start_y_max": 441999
+    },
+    {
+      "name": "packs-v66",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v66/",
+      "pack_start_y_min": 442000,
+      "pack_start_y_max": 447999
+    },
+    {
+      "name": "packs-v67",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v67/",
+      "pack_start_y_min": 448000,
+      "pack_start_y_max": 453999
+    },
+    {
+      "name": "packs-v68",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v68/",
+      "pack_start_y_min": 454000,
+      "pack_start_y_max": 459999
+    },
+    {
+      "name": "packs-v69",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v69/",
+      "pack_start_y_min": 460000,
+      "pack_start_y_max": 465999
+    },
+    {
+      "name": "packs-v70",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v70/",
+      "pack_start_y_min": 466000,
+      "pack_start_y_max": 471999
+    },
+    {
+      "name": "packs-v71",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v71/",
+      "pack_start_y_min": 472000,
+      "pack_start_y_max": 477999
+    },
+    {
+      "name": "packs-v72",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v72/",
+      "pack_start_y_min": 478000,
+      "pack_start_y_max": 483999
+    },
+    {
+      "name": "packs-v73",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v73/",
+      "pack_start_y_min": 484000,
+      "pack_start_y_max": 489999
+    },
+    {
+      "name": "packs-v74",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v74/",
+      "pack_start_y_min": 490000,
+      "pack_start_y_max": 495999
+    },
+    {
+      "name": "packs-v75",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v75/",
+      "pack_start_y_min": 496000,
+      "pack_start_y_max": 501999
+    },
+    {
+      "name": "packs-v76",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v76/",
+      "pack_start_y_min": 502000,
+      "pack_start_y_max": 507999
+    },
+    {
+      "name": "packs-v77",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v77/",
+      "pack_start_y_min": 508000,
+      "pack_start_y_max": 513999
+    },
+    {
+      "name": "packs-v78",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v78/",
+      "pack_start_y_min": 514000,
+      "pack_start_y_max": 519999
+    },
+    {
+      "name": "packs-v79",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v79/",
+      "pack_start_y_min": 520000,
+      "pack_start_y_max": 525999
+    },
+    {
+      "name": "packs-v80",
+      "base_download_url": "https://github.com/nhutvo2310/navimaps-packs/releases/download/packs-v80/",
+      "pack_start_y_min": 526000,
+      "pack_start_y_max": 531999
     }
   ]
 }
